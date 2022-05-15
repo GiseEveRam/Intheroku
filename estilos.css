@@ -1,0 +1,35 @@
+.container{
+    flex-wrap: wrap;
+    display:align-items-start ;
+    border-radius: 0px;
+    margin: auto;
+  }
+  .container .card{
+    width: 300px;
+    height: 500px;
+    border-radius: 2px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    margin: 1px;
+    text-align: start;
+  }
+  .container-fluid{
+    display: flex;
+    border-radius: 2px;
+  }
+  .container-fluid .pantalla_dividida{
+    flex-wrap: wrap;
+    height: 80vh;
+    width: 80vhs;
+    background-size: cover;
+    display:align-items-start ;
+    margin: 1px;
+    box-shadow: 0 3px 3px rgba(212, 211, 211, 0.2);
+  
+  }
+  
+  
+  
+  
+  
+  
